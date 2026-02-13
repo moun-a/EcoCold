@@ -64,8 +64,8 @@ MAS/demo/
 
 
 ## Author
-Mouna MOUHIB
+**Mouna MOUHIB**
 
-Yahya ASLOUNE
+**Yahya ASLOUNE**
 
 Embedded Systems & Digital Services Engineering Students
